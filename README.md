@@ -8,8 +8,8 @@ Esta página es una iniciativa de la [Unidad de Bioinformática y Manejo de la I
 
 Elige uno de estos vínculos para continuar:
 
-    - Busqueda por categoria
-    -  Búsqueda en función del software que quieres reemplazar
+   - Busqueda por categoria
+   - Búsqueda en función del software que quieres reemplazar
 
 ---
 
