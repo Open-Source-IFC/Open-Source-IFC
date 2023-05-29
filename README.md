@@ -6,10 +6,7 @@
 
 Esta página es una iniciativa de la [Unidad de Bioinformática y Manejo de la Información](https://sites.google.com/ifc.unam.mx/ubmi-ifc/p%C3%A1gina-principal) para promover alternativas gratuitas y libres a software comùnmente utilizado en el Instituto de Fisiología Celular de la Universidad Nacional Autónoma de México.
 
-Elige uno de estos vínculos para continuar:
-
-   - Busqueda por categoria
-   - Búsqueda en función del software que quieres reemplazar
+Revisa nuestra lista de software clasificado por categorias.
 
 ---
 
