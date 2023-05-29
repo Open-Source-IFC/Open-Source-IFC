@@ -6,7 +6,7 @@
 
 Esta página es una iniciativa de la [Unidad de Bioinformática y Manejo de la Información](https://sites.google.com/ifc.unam.mx/ubmi-ifc/p%C3%A1gina-principal) para promover alternativas gratuitas y libres a software comùnmente utilizado en el Instituto de Fisiología Celular de la Universidad Nacional Autónoma de México.
 
-Revisa nuestra lista de software clasificado por categorias.
+Te dejamos una [lista](https://open-source-ifc.github.io/estadistico) de alternativas a software estadístico como Prism o stata, pròximamente iremos agregando mas contenido. 
 
 ---
 
