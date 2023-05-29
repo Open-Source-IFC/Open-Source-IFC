@@ -1,5 +1,5 @@
 title: Open Source IFC-UNAM
 description: Iniciativa para promover el software científico libre y gratuito
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
